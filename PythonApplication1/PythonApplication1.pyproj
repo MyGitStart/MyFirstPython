@@ -5,7 +5,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>543d540c-8d16-40b9-af60-4833ae412ab7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>functionTest.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,9 +23,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="functionTest.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
   <PropertyGroup>
